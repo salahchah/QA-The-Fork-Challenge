@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-06T22:26:16 CEST" name="Suite" finished-at="2022-06-06T22:26:35 CEST" duration-ms="18308">
+    <groups>
+    </groups>
+    <test started-at="2022-06-06T22:26:16 CEST" name="Test" finished-at="2022-06-06T22:26:35 CEST" duration-ms="18308">
+      <class name="TheFork.Tests">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TheFork.Tests@491666ad]" started-at="2022-06-06T22:26:16 CEST" name="beforeTest" finished-at="2022-06-06T22:26:20 CEST" duration-ms="3094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="login()[pri:0, instance:TheFork.Tests@491666ad]" started-at="2022-06-06T22:26:20 CEST" name="login" finished-at="2022-06-06T22:26:35 CEST" duration-ms="15001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TheFork.Tests@491666ad]" started-at="2022-06-06T22:26:35 CEST" name="afterTest" finished-at="2022-06-06T22:26:35 CEST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TheFork.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
